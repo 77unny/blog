@@ -3,8 +3,11 @@ layout:     post
 title:      Javascript, <br> part.1
 date:       2019-06-29 15:31:02
 summary:    if,while
-categories: IT
+categories: [Lib]
+permalink: '/category/Lib/Javascript'
 ---
+
+
 Javascript 유연한 언어
 
 자바스크립트는 대소문자 가린다.
