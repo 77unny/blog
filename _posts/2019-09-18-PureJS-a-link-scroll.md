@@ -1,7 +1,8 @@
 ---
 layout:     post
 title:      PureJS a Link Scroll
-categories: [JSLib]
+categories: [Lib]
+permalink: '/Lib/Javascript'
 ---
 
 
