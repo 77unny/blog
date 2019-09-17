@@ -1,4 +1,4 @@
 ---
 layout: category
-title: JS Lib
+title: JSLib
 ---

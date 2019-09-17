@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      PureJS a Link Scroll
-permalink: /JS Lib/
-tags: JS Lib
+permalink: /JSLib/
+tags: JSLib
 ---
 
 
