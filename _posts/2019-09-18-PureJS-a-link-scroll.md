@@ -1,5 +1,5 @@
 ---
-layout:     category
+layout:     post
 title:      PureJS a Link Scroll
 categories: [category/JSLib]
 ---
