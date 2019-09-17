@@ -2,7 +2,7 @@
 title:       baekCode
 email:       sosaer88@gmail.com
 author:      Baek Jueun
-description: "Baek STUDIO blog"
+description: "baekCode Blog"
 baseurl:     ""
 url:         "https://baekjueun.github.io/blog"
 date_format: "%b %-d, %Y"
