@@ -64,7 +64,9 @@ blockquote p {
   font-size: $h6;
   font-style: italic;
 }
-
+blockquote p {
+  margin-bottom:0;
+}
 h1,
 .h1 {
   font-size: $h1;
