@@ -5,6 +5,17 @@
       <nav class="site-nav">
         {% include navigation.html %}
       </nav>
+      <nav class="site-nav cate-nav">
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}
+        {% if node.title != null %}
+        {% if node.layout == "category" %}
+        <a class="category-link {% if page.url == node.url %} active{% endif %}"
+                href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+        {% endif %}
+        {% endfor %}    
+      </nav>
       <div class="clearfix"></div>
       {% if site.show_social_icons %}
         {% include social_links.html %}
