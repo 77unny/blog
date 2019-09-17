@@ -1,10 +1,8 @@
 ---
 layout:     post
-title:      PureJS a Link Scroll
+title:      PureJS - lib
 categories: [Lib]
 ---
-
-
 
 ### Javascript A Tag href(link) Scroll Event 
 
