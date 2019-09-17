@@ -1,8 +1,7 @@
 ---
-layout:     post
+layout:     ca
 title:      PureJS a Link Scroll
-categories: [JSLib]
-tags: [JSLib]
+categories: [category/JSLib]
 ---
 
 

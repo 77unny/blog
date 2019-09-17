@@ -4,6 +4,7 @@
       <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
       <nav class="site-nav">
         {% include navigation.html %}
+
         {% assign pages_list = site.pages %}
         {% for node in pages_list %}
         {% if node.title != null %}
@@ -13,6 +14,9 @@
         {% endif %}
         {% endif %}
         {% endfor %} 
+
+
+        
       </nav>      
       <div class="clearfix"></div>
       {% if site.show_social_icons %}
