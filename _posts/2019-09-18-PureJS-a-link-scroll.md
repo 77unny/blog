@@ -1,7 +1,7 @@
 ---
 layout:     category
 title:      PureJS a Link Scroll
-categories: [JSLib]
+categories: [category/JSLib]
 ---
 
 
