@@ -42,6 +42,7 @@ $orange: #ffcc22 !default;
 $purple: #f92080 !default;
 $dark-blue: #00369f !default;
 $green: #00ab37 !default;
+$green-2: #378e37 !default;
 $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
 $light-green: #ddffdd !default;
@@ -96,7 +97,7 @@ $form-field-padding-x: .5rem;
 // Code
 $pre-border-radius: 0;
 $pre-background-color: #fafafa;
-$hljs-comment: $light-green;
+$hljs-comment: $green-2;
 $hljs-keyword: $dark-blue;
 $hljs-name: $dark-gray;
 $hljs-number: $dark-green;
