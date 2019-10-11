@@ -22,8 +22,11 @@ pre {
   background-color: $pre-background-color;
 }
 
+.highlight {
+  font-size: 0.85rem;
+}
 .highlight .p {
-  font-size: 1.125rem;
+  font-size: 0.85rem;
   line-height: 1;
 }
 
